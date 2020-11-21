@@ -1,2 +1,24 @@
-# vue2-zhihu
-采用vue-cli渐进式框架开发类似知乎专栏的网站。包括vue全家桶，权限管理。
+# vue2
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
