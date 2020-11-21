@@ -15,5 +15,3 @@ git commit -m 'deploy'
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:lemon666666.github.io/vue2-zhihu.git main:gh-pages
-
-cd -
